@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/*--index css 시작--*/
+
+.cont{
+    width: 100vw;
+    height: 100%;
+    background-image: url('main/main.png');
+    position: absolute;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.warp{
+    width: 100%;
+    height: 100px;
+}
+.box0{
+    width: 100%;
+    height: 100%;
+}
+ul{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.box1{height: 90px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    top: 0%;
+}
+.box2{
+    height: 90px;
+    background-color: #A80A0B;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+.logoboxx{
+    width: 100%;
+    height: 100%;
+}
+.logobox{
+    width: 830px;
+    height: 100%;
+}
+.logo{
+    margin-left: 110px;
+    width: 100%;
+    margin-top: 180px;
+}
+.st{
+    margin-left: 110px;
+}
+.maintxt{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.mainbt{
+    margin-left: 110px;
+    margin-top: 20px;
+
+}
+.bt022{
+    left: 400px;
+    position: absolute;
+}
+.bt033{
+    left: 690px;
+    position: absolute;
+}
+
+
+
+/*--네비게이션 시작--*/
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+ul{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+
+}
+
+/*--sub01 css  시작--*/
+.s01_b00{
+    width: 100%;
+
+}
+.s01_b01{
+    background-image: url('sub01/main\ 1.png');
+    background-size: cover;
+    height: 980px;
+}
+.s01_b02{
+    width: 1100px;
+    height: 1552px;
+    margin: auto;
+}
+.s01_b03{
+    width: 1100px;
+    height: 2305px;
+    margin: auto;
+}
+.s01_b04{
+    width: 1100px;
+    height: 1632px;
+    margin: auto;
+}
+.ft{
+    width: 100%;
+    height: 100px;
+    background-color: #A80A0B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    background-image: url('sub01/그룹\ 14.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+/*--네비게이션 시작--*/
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+ul{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+
+/*--sub02 css  시작--*/
+.s01_c00{
+    width: 100%;
+}
+.s01_c01{
+    background-image: url('sub02/sub02\ 1.png');
+    background-size: cover;
+    height: 978px;
+}
+.s01_c02{
+    width: 1100px;
+    height: 313px;
+    margin: auto;
+}
+.s01_c03{
+    width: 100%;
+    height: 1267px;
+    background-color: #E3E3E3;
+    text-align: center;
+}
+.s01_c04{
+    width: 1100px;
+    height: 841px;
+    margin: auto;
+}
+.s01_c05{
+    width: 1100px;
+    height: 1830px;
+    margin: auto;
+}
+.s01_c06{
+    background-image: url('sub02/그룹\ 2.png');
+    height: 1700px;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+}
+.s01_c07{
+    width: 1100px;
+    height: 707px;
+    margin: auto;
+}
+.s01_c08{
+    width: 1100px;
+    height: 1836px;
+    margin: auto;
+}
+.ft{
+    width: 100%;
+    height: 100px;
+    background-color: #A80A0B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*--네비게이션 시작--*/
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+ul{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+/*--sub03 css  시작--*/
+.s01_d00{
+    width: 100%;
+}
+.s01_d01{
+    height: 980px;
+    background-image: url('sub03/마스크\ 그룹\ 10.png');
+    background-size: cover;
+
+}
+.s01_d02{
+    width: 1100px;
+    height: 440px;
+    margin: auto;
+}
+.s01_d03{
+    width: 1100px;
+    height: 372px;
+    margin: auto;
+}
+.s01_d04{
+    width: 1100px;
+    height: 254px;
+    margin: auto;
+}
+.s01_d05{
+    width: 1100px;
+    height: 1204px;
+    margin: auto;
+}
+.s01_d06{
+    width: 1100px;
+    height: 418px;
+    margin: auto;
+}
+.s01_d07{
+    width: 1100px;
+    height: 378px;
+    margin: auto;
+}
+.s01_d08{
+    width: 1100px;
+    height: 1110px;
+    margin: auto;
+}
+.s01_d09{
+    width: 1100px;
+    height: 496px;
+    margin: auto; 
+}
+.s01_d010{
+    width: 1100px;
+    height: 296px;
+    margin: auto;
+}
+.s01_d011{
+    background-color: #E3E3E3;
+    height: 182px;
+    text-align: center;
+}
+.s01_d012{
+    width: 1100px;
+    height: 872px;
+    margin: auto;
+}
+.ft{
+    width: 100%;
+    height: 100px;
+    background-color: #A80A0B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
